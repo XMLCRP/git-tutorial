@@ -1,4 +1,4 @@
 test fix command.
 
-fix #6
+fix #5 #4 #3
 
